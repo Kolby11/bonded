@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110619332828",
+    "project_id": "bonded-be5bf",
+    "storage_bucket": "bonded-be5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110619332828:android:45ae0145f66bd38833a419",
+        "android_client_info": {
+          "package_name": "com.bonded.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0G6Hs68iHzAVwWXaj5HlT1DjCuPqFsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110619332828:android:7788661ddc3717f633a419",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0G6Hs68iHzAVwWXaj5HlT1DjCuPqFsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
