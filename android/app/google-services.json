@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "110619332828",
     "project_id": "bonded-be5bf",
-    "storage_bucket": "bonded-be5bf.appspot.com"
+    "storage_bucket": "bonded-be5bf.firebasestorage.app"
   },
   "client": [
     {
@@ -12,7 +12,12 @@
           "package_name": "com.bonded.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "110619332828-njun1g5d4norob76kn2falngi7jhqjsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDh0G6Hs68iHzAVwWXaj5HlT1DjCuPqFsY"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110619332828-njun1g5d4norob76kn2falngi7jhqjsb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110619332828-21vdogjvvo74geil2o0kndootq5mfp26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bonded.com"
+              }
+            }
+          ]
         }
       }
     },
@@ -28,10 +45,15 @@
       "client_info": {
         "mobilesdk_app_id": "1:110619332828:android:7788661ddc3717f633a419",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "com.bonded.com"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "110619332828-njun1g5d4norob76kn2falngi7jhqjsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDh0G6Hs68iHzAVwWXaj5HlT1DjCuPqFsY"
@@ -39,7 +61,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110619332828-njun1g5d4norob76kn2falngi7jhqjsb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110619332828-21vdogjvvo74geil2o0kndootq5mfp26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bonded.com"
+              }
+            }
+          ]
         }
       }
     }
